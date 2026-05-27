@@ -7,7 +7,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
  
-### Frontend (Basic)
+### Frontend 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
  

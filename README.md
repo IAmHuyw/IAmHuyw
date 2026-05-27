@@ -1,4 +1,4 @@
-# Hi there, I'm Ho Cong Huy! 👋
+# Hi there, I'm Huy! 👋
 ### .NET Backend Developer
 
 ## 🛠️ Tech Stack

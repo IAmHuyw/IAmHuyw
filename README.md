@@ -9,23 +9,20 @@
 
 ---
 
-## 👤 About Me
-- 
-
----
-
 ## 🛠️ Tech Skills
 
 ### 🖥️ Backend
 ![C#](https://shields.io)
-![.Net](https://shields.io)
+![.NET Core](https://shields.io)
+![ASP.NET Core](https://shields.io)
 
 ### 🎨 Frontend (Basic)
 ![JavaScript](https://shields.io)
 ![React](https://shields.io)
 
-### 🗄️ Database & ORM
-![MicrosoftSQLServer](https://shields.io)
+### 🗄️ Database && ORM
+![Microsoft SQL Server](https://shields.io)
+![Entity Framework Core](https://shields.io)
 
 ### 🧰 Tools & IDE
 ![Visual Studio Code](https://shields.io)
@@ -33,19 +30,6 @@
 ![GitHub](https://shields.io)
 ![Docker](https://shields.io)
 ![Postman](https://shields.io)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 
-
-### 💬 
-
----
-
-## 🏆 Achievements
-- 
 
 ---
 
@@ -62,6 +46,12 @@
 ---
 
 ## 📞 Connect with Me
-- 📱 **Phone:** 0345395359
-- 📧 **Email:** hconghuyy@gmail.com
-- 💼 **LinkedIn:** _(Bạn có thể chèn link LinkedIn của bạn vào đây)_
+
+<p align="left">
+  <a href="mailto:hconghuyy@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://github.com/IAmHuyw">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+</p>

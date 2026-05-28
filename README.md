@@ -25,7 +25,7 @@
  
 | Platform | Info |
 |----------|------|
-| 📧 Email | [hcOnghuyy@gmail.com](mailto:hcOnghuyy@gmail.com) |
+| 📧 Email | [hc0nghuyy@gmail.com](mailto:hc0nghuyy@gmail.com) |
 | 💻 GitHub | [github.com/IAmHuyw](https://github.com/IAmHuyw) |
  
 ---
